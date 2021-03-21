@@ -1,0 +1,26 @@
+.parentDiv{
+    width: 83%;
+    margin-left: 20%;
+    height: 90%;
+    outline: 3px solid gold;
+    
+    
+}
+.img{
+    position: absolute;
+    top:50px;
+    left:90px;
+    width: 60px;
+    height: 60px;
+    
+}
+#hi{
+    position: absolute;
+}
+body{
+    background-image: url(../img/BG.jpg);
+    background-size: cover;
+}
+.divGame{
+    width: 52%;
+}
